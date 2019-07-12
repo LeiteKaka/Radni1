@@ -3,6 +3,7 @@ background: red;
 }
 p {
  font-size: 25px;
+ font-transform: uppercase;
 }
 body {
 	background-color: lightblue;
